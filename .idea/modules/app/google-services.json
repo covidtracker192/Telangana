@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "311732692515",
+    "firebase_url": "https://telangana-69673.firebaseio.com",
+    "project_id": "telangana-69673",
+    "storage_bucket": "telangana-69673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311732692515:android:637d0129e2b73bd4aff396",
+        "android_client_info": {
+          "package_name": "com.covid19.telangana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311732692515-ac262c8a47ao6o0i15p07ns82copvdhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.telangana",
+            "certificate_hash": "423cc1b7b474d761f16f68a8e3345bda1027bd42"
+          }
+        },
+        {
+          "client_id": "311732692515-9mhn9u3qh562l8n1sgu3kttqssjg06h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.telangana",
+            "certificate_hash": "83a5c94c6af159c75885c58689b4609173b8e7ea"
+          }
+        },
+        {
+          "client_id": "311732692515-fu8h3pa6q43m2i6ch22kbpu3h749qd5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdTLXM6HcHJ0tagK_XwZttAMAF2jgJZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311732692515-fu8h3pa6q43m2i6ch22kbpu3h749qd5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

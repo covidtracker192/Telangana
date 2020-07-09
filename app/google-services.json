@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "311732692515-9mhn9u3qh562l8n1sgu3kttqssjg06h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.telangana",
+            "certificate_hash": "83a5c94c6af159c75885c58689b4609173b8e7ea"
+          }
+        },
+        {
           "client_id": "311732692515-fu8h3pa6q43m2i6ch22kbpu3h749qd5g.apps.googleusercontent.com",
           "client_type": 3
         }
